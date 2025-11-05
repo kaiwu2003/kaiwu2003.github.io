@@ -4,7 +4,7 @@ collection: teaching assitant
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-teaching-1
 venue: "USTC"
-date: "2023"
+date: 2023-01-01
 location: "HeFei,China"
 ---
 
