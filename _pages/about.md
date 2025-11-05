@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-#About me:
-
+## About me:
+I am currently a PHD student in Peking University, majored in pure math. My research interest lies on differential geometry, geometric anaysis.
 
