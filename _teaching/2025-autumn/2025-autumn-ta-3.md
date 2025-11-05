@@ -16,5 +16,5 @@ Here are some materials during the class:
 - 第三次习题课
 
 作业答案：
-- <a href="https://kaiwu2003.github.io/teaching pdf/25-autumn/hw1.pdf" target="_blank">第一次习题课</a>
+- <a href="https://kaiwu2003.github.io/teaching pdf/25-autumn/hw1.pdf" target="_blank">第一次作业答案</a>
 
