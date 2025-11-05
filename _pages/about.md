@@ -13,7 +13,7 @@ I am currently a PHD student in Peking University, majored in pure math. My rese
 ## Education Experience:
 - 2025.9-present     Ph.D. Candidate
   
-  School of Mathematical Sciences, Peking University
+  School of Mathematical Sciences, [Peking University](https://www.pku.edu.cn/)
   
   Advisor: Gang Tian
 - 2021.9-2025.6  B.S. in Mathematics and Applied Mathematics
