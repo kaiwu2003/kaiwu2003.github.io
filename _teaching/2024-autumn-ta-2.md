@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Linear Algebra(B)"
 collection: teaching assistant
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-autumn-ta-2
-venue: "University 1, Department"
+venue: "USTC"
 date: 2024-09-01
 location: "HeFei,China"
 ---
 
 With Professor Weihua Tong.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
