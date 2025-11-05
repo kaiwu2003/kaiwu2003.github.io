@@ -16,4 +16,4 @@ Here are some materials during the class:
 - 第三次习题课
 
 作业答案：
-- [第一次作业答案](../_teaching/2025_autumn/hw1.pdf)
+- [第一次作业答案](hw1.pdf)
