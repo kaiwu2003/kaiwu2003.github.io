@@ -11,4 +11,7 @@ location: "Beijing,China"
 With Professor Guchuan Li.
 Here are some materials during the class:
 
-习题课讲义
+习题课讲义：
+- 第一次习题课
+- 第二次习题课
+- 第三次习题课
