@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra(B)"
-collection: teaching assitant
+collection: "teaching assitant"
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-teaching-1
 venue: "USTC"
