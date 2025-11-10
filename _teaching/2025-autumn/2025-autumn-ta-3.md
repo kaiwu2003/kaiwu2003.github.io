@@ -1,4 +1,4 @@
- ---
+---
 title: "Linear Algebra(B)"
 collection: teaching assistant
 type: "Undergraduate course"
