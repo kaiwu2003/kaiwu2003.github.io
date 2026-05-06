@@ -1,2 +1,15 @@
 title: Kai Wu
+description: PhD Student in Mathematics, Peking University
+
 theme: minima
+
+markdown: kramdown
+
+# 顶部导航
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+
+# 更干净的URL
+permalink: pretty
