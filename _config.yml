@@ -13,3 +13,6 @@ header_pages:
 
 # 更干净的URL
 permalink: pretty
+
+include:
+  - assets/style.css
