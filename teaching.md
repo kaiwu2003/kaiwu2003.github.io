@@ -20,4 +20,4 @@ title: Teaching
 
 ### Linear Algebra (B) — Autumn 2024  
 
-### Linear Algebra (A) — Spring 2024  
+### Linear Algebra (B) — Spring 2024  
