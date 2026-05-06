@@ -15,19 +15,14 @@ My research focuses on geometric analysis, especially minimal surfaces and varia
 
 ### Minimal Surfaces
 
-- Bernstein problem in higher dimensions  
-- Stability and curvature estimates  
+- Bernstein problem and Stable Bernstein problems
 
-### Min-Max Theory
+### Topics about manifolds with positive scalar curvature
 
-- Almgren–Pitts framework  
-- Applications to Willmore-type problems  
+- \mu-bubble
 
 ---
 
 ## Notes
 
-I am currently studying:
-
-- Marques–Neves proof of the Willmore conjecture  
-- Geometric measure theory foundations  
+To be upload 
