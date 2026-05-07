@@ -17,3 +17,6 @@ permalink: pretty
 
 include:
   - assets/style.css
+
+kramdown:
+  math_engine: mathjax
