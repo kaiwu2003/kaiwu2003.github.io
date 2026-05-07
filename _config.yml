@@ -10,6 +10,7 @@ header_pages:
   - index.md
   - research.md
   - teaching.md
+  - notes.md
 
 # 更干净的URL
 permalink: pretty
