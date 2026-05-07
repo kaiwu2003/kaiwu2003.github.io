@@ -38,6 +38,8 @@ Bachelor’s thesis supervised by Prof. Yong Wei and Prof. Gang Tian
 
 ---
 
+
+
 ## Teaching
 
 - **Advanced Mathematics (B) II**, Spring 2026  
@@ -48,6 +50,21 @@ Bachelor’s thesis supervised by Prof. Yong Wei and Prof. Gang Tian
 
 👉 See full list: [Teaching](./teaching)
 
+---
+
+
+## Honors and Awards
+
+- Huang Yu Memorial Scholarship, USTC (2024)
+
+- Second Prize, 14th National Undergraduate Mathematics Competition  
+  (Mathematics Category A) (2023)
+
+- Outstanding Student Scholarship (Silver Award), USTC (2022)
+
+- Outstanding Student Scholarship (Bronze Award), USTC (2021)
+
+  
 ---
 
 ## CV
